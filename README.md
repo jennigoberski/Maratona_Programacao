@@ -1,6 +1,8 @@
 <h1 align="center">
   <br>17ª MARATONA DE PROGRAMAÇÃO - ESCOLA DE TECNOLÓGICA DA UNIVERSIDADE POSITIVO POR FPRZYSIADA</h1>
 
+![image](https://user-images.githubusercontent.com/86369677/191576244-441dcae5-7f9f-4bd8-b363-4a10986cd57d.png)
+
 <a id="pt-readme"></a>
 ## [English](#en-readme) | Português
 
@@ -48,3 +50,6 @@ To run the codes you need a Pyhton IDE such as **VSCODE, Pycharm, Google Collab*
 
 
 ✨ Thanks for your attention! ✨
+
+![image](https://user-images.githubusercontent.com/86369677/191576294-f3d73efa-9b49-40a1-9391-70e588fd9707.png)
+
