@@ -1,6 +1,3 @@
-# Maratona_Programacao
-Maratona de programação realizada dia 19/09/2022 pela Universidade Positivo
-
 <h1 align="center">
   <br>17ª MARATONA DE PROGRAMAÇÃO - ESCOLA DE TECNOLÓGICA DA UNIVERSIDADE POSITIVO POR FPRZYSIADA</h1>
 
