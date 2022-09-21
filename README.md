@@ -9,11 +9,13 @@ Olá, este repositório contém alguns códigos desenvolvidos no dia dezenove de
 
 ## Programas desenvolvidos
 
-- [a](link) 
-- [a](link) 
-- [c](link)
-- [d](link) 
-- [e](link) 
+- [Experimentos](https://github.com/jennigoberski/Maratona_Programacao/blob/main/maratona/exercicios/durante_maratona/ExercicioA.py)
+- [Vogais de Aliens](https://github.com/jennigoberski/Maratona_Programacao/blob/main/maratona/exercicios/durante_maratona/ExercicioC.py)
+- [OVERFLOW ou OK](https://github.com/jennigoberski/Maratona_Programacao/blob/main/maratona/exercicios/durante_maratona/ExercicioD.py)
+- [Jogos de Futebol](https://github.com/jennigoberski/Maratona_Programacao/blob/main/maratona/exercicios/durante_maratona/ExercicioE.py)
+- [Contêineres](https://github.com/jennigoberski/Maratona_Programacao/blob/main/maratona/exercicios/durante_maratona/ExercicioF.py) 
+- [Espécies de Hobbit](https://github.com/jennigoberski/Maratona_Programacao/blob/main/maratona/exercicios/durante_maratona/ExercicioI.py)
+- [Palavrão](https://github.com/jennigoberski/Maratona_Programacao/blob/main/maratona/exercicios/durante_maratona/ExercicioL.py)
 
 ## Como rodar os códigos
 
@@ -32,11 +34,13 @@ Hi, nice to see you around! This repository contains some Python codes develped 
 
 ## Developed applications    
 
-- [a](link) 
-- [a](link) 
-- [c](link)
-- [d](link) 
-- [e](link) 
+- [Experiments](https://github.com/jennigoberski/Maratona_Programacao/blob/main/maratona/exercicios/durante_maratona/ExercicioA.py)
+- [Alien Vowels](https://github.com/jennigoberski/Maratona_Programacao/blob/main/maratona/exercicios/durante_maratona/ExercicioC.py) 
+- [OVERFLOW or OK](https://github.com/jennigoberski/Maratona_Programacao/blob/main/maratona/exercicios/durante_maratona/ExercicioD.py)
+- [Soccer Games](https://github.com/jennigoberski/Maratona_Programacao/blob/main/maratona/exercicios/durante_maratona/ExercicioE.py) 
+- [Containers](https://github.com/jennigoberski/Maratona_Programacao/blob/main/maratona/exercicios/durante_maratona/ExercicioF.py)
+- [Hobbit species](https://github.com/jennigoberski/Maratona_Programacao/blob/main/maratona/exercicios/durante_maratona/ExercicioI.py)
+- [Big word](https://github.com/jennigoberski/Maratona_Programacao/blob/main/maratona/exercicios/durante_maratona/ExercicioL.py)
 
 ## How to run the codes
 
